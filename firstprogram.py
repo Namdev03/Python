@@ -8,4 +8,3 @@ print(type(age))
 a = None
 print(type(a))
 print(type(b))
-
